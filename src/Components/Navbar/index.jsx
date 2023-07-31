@@ -19,7 +19,7 @@ const Navbar = () => {
           <input value={searchValue} onChange={handleInput} type="text" placeholder="Search"/>
           <button onClick={handleSearch}>Search</button>
         </div>
-          <li><a href="#">Home</a></li>
+          <li>Home</li>
           <li>My list</li>
           <button>Sign in</button>
       </nav>
