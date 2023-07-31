@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    margin-top: 20px;
+    padding: 1rem;
+    gap: 15rem;
+    list-style: none;
+
+}
+span{
+    color: orange;
+}
+button{
+    background-color: orange;
+   
+}
+.results{
+    height: 25vh;
+    width: 50%;
+}
